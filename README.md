@@ -1,28 +1,14 @@
 # PythonCrashCourse-Exercises
 
-Welcome to the `PythonCrashCourse-Exercises` repository! This repository contains solutions and code snippets for all the exercises in the book `Python Crash Course`, designed to help Python beginners and enthusiasts on their learning journey.
+This repository contains my personal solutions for exercises from the book "Python Crash Course". 
 
-## 📘 Content Description
+## 🚀Usage
 
-This repository covers the chapters in the book Python Crash Course, providing detailed answers and code implementations for each exercise.
+Clone this repository to your local machine and navigate to the specific chapter directory to view the exercises and solutions.
 
-## 🚀 Start
-
-1. **Clone the repository**
-   
-   Open a terminal and run the following command to clone the repository:
-
-   ```sh
-   git clone https://github.com/KawaliAsh/PythonCrashCourse-Exercises.git
-   ```
-
-2. **Browsing the code**
-
-   In the cloned down repository, you can browse the code of each chapter and try to run them for better understanding.
-
-3. **Practical Exercises**
-
-   We encourage you to do hands-on practice based on reading the code, modifying the code and trying to implement different functions, which will help you better master Python programming.
+```bash
+git git clone https://github.com/KawaliAsh/PythonCrashCourse-Exercises.git
+```
 
 ## 🤝 Contributing
 
