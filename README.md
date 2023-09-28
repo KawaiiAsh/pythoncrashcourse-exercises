@@ -7,7 +7,7 @@ This repository contains my personal solutions for exercises from the book "Pyth
 Clone this repository to your local machine and navigate to the specific chapter directory to view the exercises and solutions.
 
 ```bash
-git git clone https://github.com/KawaliAsh/PythonCrashCourse-Exercises.git
+git clone https://github.com/KawaliAsh/PythonCrashCourse-Exercises.git
 ```
 
 ## 🤝 Contributing
