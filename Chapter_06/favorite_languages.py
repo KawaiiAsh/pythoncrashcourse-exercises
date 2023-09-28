@@ -37,3 +37,15 @@ for language in favorite_languages.values():
 print("The following languages have been mentioned:")
 for language in set(favorite_languages.values()):
     print(language.title())
+
+favorite_languages = {
+    'jen': ['python','ruby'],
+    'sarah':['c'],
+    'edward':['ruby','go'],
+    'phil':['python','haskell']
+}
+
+for name,languages in favorite_languages.items():
+    print(name.title() + "'s favorite languages are:")
+    for language in languages:
+        print(language.title())
