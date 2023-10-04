@@ -18,7 +18,7 @@ class Admin(User):
     def __init__(self, first_name, last_name ,privileges,**informations):
         super().__init__(first_name, last_name, **informations)
         self.privileges = privileges
-'''Comment for 9-12.py program running.
+
 class Privileges():
     def __init__(self):
         self.privileges = ["can add post","can delete post","can ban user"]
@@ -27,8 +27,8 @@ class Privileges():
         for privilege in self.privileges:
             print(admin_instance + " " + privilege)
 
-admin_privileges = Privileges()
+# Comment for 9-12.py program running.
+# admin_privileges = Privileges()
 
-web_admin = Admin('Ash','One',admin_privileges,gender = 'Male')
-web_admin.privileges.show_privileges(web_admin.first_name)
-'''
+# web_admin = Admin('Ash','One',admin_privileges,gender = 'Male')
+# web_admin.privileges.show_privileges(web_admin.first_name)
