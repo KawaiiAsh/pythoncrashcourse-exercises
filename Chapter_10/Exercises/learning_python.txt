@@ -1,0 +1,3 @@
+In Python, you can easily create and manipulate lists, which are versatile data structures for storing collections of items.
+In Python, you can define functions using the def keyword, allowing you to encapsulate reusable blocks of code.
+In Python, you can work with object-oriented programming (OOP) principles, defining classes and creating objects to model real-world entities.
